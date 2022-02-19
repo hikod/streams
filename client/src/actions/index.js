@@ -1,6 +1,8 @@
-export const signedIn = () => {
-  return { type: "SING_IN" };
+import { SIGN_IN, SIGN_OUT } from "./types";
+
+export const signIn = (userId) => {
+  return { type: SIGN_IN, payload: userId };
 };
-export const signedOut = () => {
-  return { type: "SING_OUT" };
+export const signOut = () => {
+  return { type: SIGN_OUT };
 };
