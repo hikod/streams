@@ -1,28 +1,10 @@
 {
   "streams": [
     {
-      "title": "testing the refactoring editing v2",
-      "description": "description editing ",
-      "userId": "102120164850990608978",
-      "id": 1
-    },
-    {
       "title": "Me streaming component reuse",
       "description": "Watch me refactor some components",
       "userId": "102120164850990608978",
       "id": 2
-    },
-    {
-      "title": "test",
-      "description": "test desc",
-      "userId": "102120164850990608978",
-      "id": 3
-    },
-    {
-      "title": "test offline",
-      "description": "offline desc",
-      "userId": null,
-      "id": 4
     }
   ]
 }
